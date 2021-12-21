@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "firstName": "asd",
+      "lastName": "asd",
+      "email": "aanurak@gmail.com",
+      "telephone": "081",
+      "salary": "12000"
+    },
+    {
+      "id": 4,
+      "firstName": "asd",
+      "lastName": "asd",
+      "email": "a@gmail.com",
+      "telephone": "asd",
+      "salary": "1200"
+    },
+    {
+      "id": 2,
+      "firstName": "asd",
+      "lastName": "asd",
+      "email": "anurak@gmail.com",
+      "telephone": "asd",
+      "salary": "12000"
+    },
+    {
+      "id": 5,
+      "firstName": "asd",
+      "lastName": "asd",
+      "email": "asasd@gmail.com",
+      "telephone": "asd",
+      "salary": "5000"
+    },
+    {
+      "id": 6,
+      "firstName": "asd",
+      "lastName": "asd",
+      "email": "anurak@gmail.com",
+      "telephone": "5451",
+      "salary": "5000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
